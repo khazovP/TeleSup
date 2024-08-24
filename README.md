@@ -1,12 +1,3 @@
-<table>
-<tr>
-<th><img src="https://i.imgur.com/du5KZ1C.jpg" /></th>
-<th><img src="https://i.imgur.com/N2002b0.jpg" /></th>
-</tr>
-</table>
-
-> 🚀 **Hosted solution**: Get it [here at botspace](https://botspace.bostrot.com)!
-
 ## ✨ Features
 
 When a user sends a message to the support chat it will create a ticket which will be forwarded to the staff group. Any admin in the staff group may answer that ticket by just replying to it. Salutation is added automatically. Photos will be forwared too.
@@ -38,8 +29,6 @@ User commands:
 - `/id` - returns your telegram id and the group chat id (1234567 -1234567890)
 
 ## 📦 Install
-
-See the [wiki](https://github.com/bostrot/telegram-support-bot/wiki) for more detailed instructions.
 
 ```bash
 mv config/config-sample.yaml config.yaml

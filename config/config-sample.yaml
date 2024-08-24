@@ -29,7 +29,6 @@ dev_mode: true # Enable/disable dev mode
 # customize your language
 language:
   startCommandText: 'Welcome in our support chat! Ask your question here.'
-  faqCommandText: 'Get this bot at: [github.com](https://github.com/bostrot/telegram-support-bot)'
   helpCommandText: "*Available commands:* /help /faq /id"
   helpCommandStaffText: "*Available commands:*\n
     /start - Get a little introduction \n
@@ -81,9 +80,9 @@ language:
 autoreply:
   - question: 'install'
     answer: "If you want to install the bot, you can use the following link: \
-      [Getting Started](https://github.com/bostrot/telegram-support-bot/wiki/Getting-started)  \
+      [Getting Started](https://telegram.com  \
       Alternatively you can also use our one-click setup & hosting service: \
-      [Botspace](https://botspace.bostrot.com/)"
+      [Botspace](https://telegram.com/)"
   - question: 'are you sure?'
     answer: 'Yes.'
 # categories:
